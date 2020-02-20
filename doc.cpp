@@ -191,7 +191,9 @@ void DocSo(int n)
 int main()
 {
 	int n;
+	cout>>"Input: ";
 	cin>>n;
+	cout<<"Outpu: ";
 	DocSo(n);
 	system("pause");
 	return 0;
